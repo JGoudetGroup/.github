@@ -13,7 +13,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ---
 
-## Table of contents
+## 📚 Table of contents
 
 ### Resources
 
