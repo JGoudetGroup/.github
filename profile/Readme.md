@@ -27,7 +27,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### Tutorials
 
-- [Running Nextflow on Unil's HPC](https://github.com/JGoudetGroup/Resources/blob/main/Onboarding.md)
+- [Running Nextflow on Unil's HPC](https://github.com/m-bachmann/nextflow-on-slurm)
 
 ### 3K owl project
 
