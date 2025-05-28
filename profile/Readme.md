@@ -22,6 +22,9 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 - Containers (coming soon)
 - Data management best practices (coming soon)
 
+### Website
+- [Group website repository](https://github.com/JGoudetGroup/GoudetWebsite)
+
 ### Tutorials
 
 - [Running Nextflow on Unil's HPC](https://github.com/JGoudetGroup/Resources/blob/main/Onboarding.md)
