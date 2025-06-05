@@ -19,7 +19,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 - [Onboarding](https://github.com/JGoudetGroup/Resources/blob/main/Onboarding.md)
 - [HPC Guide](https://github.com/JGoudetGroup/Resources/blob/main/Guide_to_HPC_at_Unil.md)
-- Containers (coming soon)
+- Tips for reproducible software environments (coming soon)
 - Data management best practices (coming soon)
 
 ### Website
@@ -34,3 +34,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 - Low coverage pipeline (coming soon)
 - Reference panel pipeline (coming soon)
 - Database (coming soon)
+
+### Bat parasites
+
+- Rad processing (coming soon)
