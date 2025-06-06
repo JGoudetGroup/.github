@@ -19,7 +19,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 - [Onboarding](https://github.com/JGoudetGroup/Resources/blob/main/Onboarding.md)
 - [HPC Guide](https://github.com/JGoudetGroup/Resources/blob/main/Guide_to_HPC_at_Unil.md)
-- Tips for reproducible software environments (coming soon)
+- [Reproducible software environmetns](https://github.com/JGoudetGroup/Resources/blob/main/Reproducible_software_environments.md)
 - Data management best practices (coming soon)
 
 ### Website
