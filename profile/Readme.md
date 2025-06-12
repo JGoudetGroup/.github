@@ -29,6 +29,16 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 - Reference panel pipeline (coming soon)
 - Database (coming soon)
 
+### Museum owls 🏛️
+
+### Owl reference genome 🧬
+
+### Owl color 🎨
+
+### Inbreeding depression in owls 📉
+
+### Local adaptation 📈
+
 ### Bat parasites 🦇
 
-- Rad processing (coming soon)
+- Rad processing
