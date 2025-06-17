@@ -25,7 +25,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### 3K owl project 🦉
 
-- [Low coverage pipeline](https://github.com/JGoudetGroup/3KOWLS_low_coverage) (ongoing)
+- [Low coverage pipeline](https://github.com/JGoudetGroup/3KOWLS_low_coverage) (v1 done)
 - Reference panel pipeline (coming soon)
 - Database (coming soon)
 
