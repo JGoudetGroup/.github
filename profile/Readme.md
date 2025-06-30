@@ -11,6 +11,30 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ## 📚 Table of contents
 
+### 3K owl project 🦉
+
+- [Low coverage pipeline](https://github.com/JGoudetGroup/3KOWLS_low_coverage) (v1 done)
+- Reference panel pipeline (coming soon)
+- Database (coming soon)
+
+### Bat parasites 🦇
+
+- Rad processing
+
+### Inbreeding depression in owls 📉
+
+### Introgression in stick insects 🔀
+
+### Inversions 🔄
+
+### Local adaptation 📈
+
+### Museum owls 🏛️
+
+### Owl reference genome 🧬
+
+### Owl color 🎨
+
 ### Resources 🧰
 
 - [Onboarding](https://github.com/JGoudetGroup/Resources/blob/main/Onboarding.md)
@@ -22,23 +46,3 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 ### Website 🌐
 
 - [Group website repository](https://github.com/JGoudetGroup/GoudetWebsite)
-
-### 3K owl project 🦉
-
-- [Low coverage pipeline](https://github.com/JGoudetGroup/3KOWLS_low_coverage) (v1 done)
-- Reference panel pipeline (coming soon)
-- Database (coming soon)
-
-### Museum owls 🏛️
-
-### Owl reference genome 🧬
-
-### Owl color 🎨
-
-### Inbreeding depression in owls 📉
-
-### Local adaptation 📈
-
-### Bat parasites 🦇
-
-- Rad processing
