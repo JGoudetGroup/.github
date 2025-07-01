@@ -19,7 +19,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### Bat parasites 🦇
 
-- Rad processing
+- Rad processings
 
 ### Inbreeding depression in owls 📉
 
