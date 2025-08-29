@@ -19,7 +19,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### Bat parasites 🦇
 
-- Rad processings
+- Rad processing
 
 ### Inbreeding depression in owls 📉
 
@@ -29,9 +29,13 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### Local adaptation 📈
 
+- [SALSA](https://github.com/JGoudetGroup/salsa) nextflow pipeline
+
 ### Museum owls 🏛️
 
 ### Owl reference genome 🧬
+
+- [Microchromosome search](https://github.com/JGoudetGroup/RefGenome-microchromosomes)
 
 ### Owl color 🎨
 
