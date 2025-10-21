@@ -13,13 +13,11 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### 3K owl project 🦉
 
-- [Low coverage pipeline](https://github.com/JGoudetGroup/3KOWLS_low_coverage) (v1 done)
-- Reference panel pipeline (coming soon)
+- **Low coverage sequencing**
+  - [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
+  - [glimpse](https://github.com/JGoudetGroup/glimpse)
+- Reference panel pipeline
 - [Database](https://github.com/JGoudetGroup/Sequenced-Owls-DataBase)
-
-### Bat parasites 🦇
-
-- Rad processing
 
 ### Inbreeding depression in owls 📉
 
