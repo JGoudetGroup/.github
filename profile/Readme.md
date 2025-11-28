@@ -16,6 +16,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 - **Low coverage sequencing**
   - [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
   - [glimpse](https://github.com/JGoudetGroup/glimpse)
+  - [reImpute](https://github.com/JGoudetGroup/ReImpute) - for medium coverage individuals
 - Reference panel pipeline
 - [Database](https://github.com/JGoudetGroup/Sequenced-Owls-DataBase)
 
