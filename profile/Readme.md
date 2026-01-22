@@ -39,6 +39,9 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ### Owl color 🎨
 
+### Comparative genomics ↔️
+- [Synteny](https://github.com/JGoudetGroup/SyntenyPipeline) nextflow pipeline
+
 ### Resources 🧰
 
 - [Onboarding](https://github.com/JGoudetGroup/Resources/blob/main/Onboarding.md)
