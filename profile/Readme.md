@@ -35,6 +35,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 ### Owl reference genome 🧬
 
 - [Microchromosome search](https://github.com/JGoudetGroup/RefGenome-microchromosomes)
+- [Microchromosome comparison](https://github.com/JGoudetGroup/MicrochromosomeComparison)
 - [Coordinate translation: unzip to LG](https://github.com/JGoudetGroup/Unzip2LG)
 
 ### Owl color 🎨
