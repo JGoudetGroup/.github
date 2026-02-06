@@ -31,7 +31,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 - [SALSA](https://github.com/JGoudetGroup/salsa) nextflow pipeline
 
 ### Museum owls 🏛️
-
+- [fastq2bam_museum](https://github.com/JGoudetGroup/fastq2bam_museum)
 ### Owl reference genome 🧬
 
 - [Microchromosome search](https://github.com/JGoudetGroup/RefGenome-microchromosomes)
