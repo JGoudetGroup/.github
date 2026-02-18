@@ -33,6 +33,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 ### Museum owls 🏛️
 - [fastq2bam_museum](https://github.com/JGoudetGroup/fastq2bam_museum)
 - [mitochondrial_fastq2bam](https://github.com/JGoudetGroup/mitochondrial_fastq2bam)
+- [MitoPhylo](https://github.com/JGoudetGroup/MitoPhylo)
 
 ### Owl reference genome 🧬
 
