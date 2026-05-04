@@ -11,10 +11,9 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 
 ## 📚 Table of contents
 
-### 3K owl project 🦉
-
-- **Low coverage sequencing**
-  - [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
+### Barn owl 🦉
+- [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
+- **Low coverage sequencing (3K owl project)**
   - [glimpse](https://github.com/JGoudetGroup/glimpse)
   - [reImpute](https://github.com/JGoudetGroup/ReImpute) - for medium coverage individuals
 - Reference panel pipeline
