@@ -12,7 +12,10 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 ## 📚 Table of contents
 
 ### Barn owl 🦉
-- [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
+- Mapping
+  - [fastqjoin](https://github.com/JGoudetGroup/fastqjoin/tree/main)
+  - [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
+  - [mergeBAMs](https://github.com/JGoudetGroup/mergeBAMs)
 - **Low coverage sequencing (3K owl project)**
   - [glimpse](https://github.com/JGoudetGroup/glimpse)
   - [reImpute](https://github.com/JGoudetGroup/ReImpute) - for medium coverage individuals
