@@ -12,7 +12,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
 ## 📚 Table of contents
 
 ### Barn owl 🦉
-- Mapping
+- Mapping pipelines
   - [fastqjoin](https://github.com/JGoudetGroup/fastqjoin/tree/main)
   - [fastq2bam](https://github.com/JGoudetGroup/fastq2bam)
   - [mergeBAMs](https://github.com/JGoudetGroup/mergeBAMs)
@@ -21,6 +21,7 @@ Just joined? Check out our [onboarding guide](https://github.com/JGoudetGroup/Re
   - [reImpute](https://github.com/JGoudetGroup/ReImpute) - for medium coverage individuals
 - Reference panel pipeline
 - [Database](https://github.com/JGoudetGroup/Sequenced-Owls-DataBase)
+- [Re-mapping all existing libraries to the new reference genome](https://github.com/JGoudetGroup/Remapping2026)
 
 ### Inbreeding depression in owls 📉
 
